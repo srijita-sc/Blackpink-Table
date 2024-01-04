@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<title> Tables </title>
+
+	</head>
+	<body>
+		<h3>Blackpink (Kpop Girl Group)</h3>
+		<h1> More info about the members of Blackpink in a tabular form </h1>
+		<tr>
+			<th> Real name </th>
+			<th> Stage name </th>
+			<th> English name </th>
+			<th> Nickname </th>
+			<th> Position in group </th>
+			<th> Ranking in Vocals </th>	
+			<th> Ranking in Raps </th>	
+			<th> Ranking in Dances </th>	
+			<th> Ranking in Stage Presence </th>	
+			<th> Own Labels </th>	
+			<th> Fav color </th>			
+		</tr>
+ 		<tr>
+  			<td> Kim Jisoo </td>
+			<td> Jisoo </td>
+			<td> Kim Ji Soo </td>
+			<td> Sooya </td>
+			<td> Lead Vocalist, Visualist, Unnie(oldest), unofficial leader </td>
+                        <td> 3rd </td>
+			<td> 3rd </td>
+			<td> 4th </td>
+                        <td> 4th </td>
+			<td> Blissoo </td>
+			<td> Purple </td>
+		</tr>
+		<tr>
+  			<td> Kim Jennie </td>
+			<td> Jennie </td>
+			<td> Jennie Ruby Jane </td>
+			<td> Nini </td>
+                        <td> Main Rapper, Lead Vocalist, Face of the group, Center</td>
+			<td> 2nd </td>
+			<td> 1st </td>
+                        <td> 3rd </td>
+			<td> 3rd </td>
+			<td> Odd Atelier </td>
+			<td> Black and pink </td>
+		</tr>
+ 		<tr>
+  			<td> Park Chaeyoung </td>
+			<td> Rosé </td>
+			<td> Roseanne Park </td>
+			<td> Rosie </td>
+			<td> Main Voaclist, Lead Dancer </td>
+			<td> 1st </td>
+                        <td> 4th </td>
+			<td> 2nd </td>
+			<td> 2nd </td>
+                        <td> N/A </td>
+			<td> Pink and blue </td>
+		</tr>
+		<tr>
+  			<td> Lalisa Manobal ( birth name: Pranpriya Manobal) </td>
+			<td> Lisa </td>
+			<td> Lalisa Manobal </td>
+			<td> Lily </td>
+			<td> Main Dancer, Lead Rapper, Sub-vocalist, Maknae(youngest) </td>
+                        <td> 4th </td>
+			<td> 2nd </td>
+			<td> 1st </td>
+                        <td> 1st </td>
+			<td> N/A </td>
+			<td> Yellow </td>
+		</tr>
+	</body>
+</html>
